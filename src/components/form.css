@@ -1,0 +1,14 @@
+.form_control{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 50%;
+    background-color: rgba(128, 0, 128, 0.572);
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+.form_control input,.form_control input{
+    margin-bottom: 15px;
+}
